@@ -4,6 +4,7 @@ author: "Tiffany Timbers & Jordan Bourak"
 format:
   html:
     toc: true
+    embed-resources: true
   pdf:
     toc: true
 execute:
@@ -36,7 +37,9 @@ The Python programming language [@Python]
 and the following Python packages were used to perform the analysis: 
 pandas [@pandas], altair [@altair], click [@click], 
 as well as Quarto [@Allaire_Quarto_2022]. 
-*Note: this report is adapted from @ttimbers-horses.* # Results
+*Note: this report is adapted from @ttimbers-horses.* 
+
+# Results
 
 ![Horse populations for all provinces in Canada from 1906 - 1972.](../results/horse_pops_plot.png){#fig-horse-pops fig-pos="H"}
 
