@@ -1,15 +1,12 @@
 ---
 title: "DSCI 310: Historical Horse Population in Canada"
 author: "Tiffany Timbers & Jordan Bourak"
-website:
-  site-url: "https://arnavg03.github.io/dsci-310-ia4-arnavg03-quarto-python/"
 format:
   html:
     toc: true
     embed-resources: true
   pdf:
     toc: true
-    output-file: "qmd_example.pdf"
 execute:
   echo: false
   warning: false
