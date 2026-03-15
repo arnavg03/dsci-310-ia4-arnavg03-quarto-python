@@ -41,7 +41,7 @@ as well as Quarto [@Allaire_Quarto_2022].
 
 # Results
 
-![Horse populations for all provinces in Canada from 1906 - 1972.](../results/horse_pops_plot.png){#fig-horse-pops fig-pos="H"}
+![Horse populations for all provinces in Canada from 1906 - 1972.](../results/horse_pops_plot.png){#fig-horse-pops fig-pos="H" width=85%}
 
 We can see from @fig-horse-pops that Ontario, Saskatchewan and Alberta 
 have had the highest horse populations in Canada. 
