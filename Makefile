@@ -21,6 +21,7 @@ reports/qmd_example.html: results/horse_pops_plot.png reports/qmd_example.qmd
 
 reports/qmd_example.pdf: results/horse_pops_plot.png reports/qmd_example.qmd
 	quarto render reports/qmd_example.qmd --to pdf
+	cp reports/qmd_example.pdf docs/qmd_example.pdf
 
 # clean
 clean:
